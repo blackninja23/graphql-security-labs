@@ -1,9 +1,9 @@
-flask 
+flask==2.0.3
 flask-graphql 
 flask-migrate==2.7.0
-flask-sqlalchemy 
+flask-sqlalchemy==2.5.1
 graphql-core==2.2.1
 graphene==2.1.8 
 graphene-sqlalchemy
 flask_httpauth
-sqlalchemy
+sqlalchemy==1.4.46
